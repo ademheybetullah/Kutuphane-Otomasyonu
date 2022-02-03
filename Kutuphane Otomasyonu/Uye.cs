@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kutuphane_Otomasyonu
 {
-    public class Kitap
+    public class Uye
     {
-        public string KitapAdi { get; set; }
-        public int KitaplikNo { get; set; }
-        public int RafNo { get; set; }
+        public string UyeAdi { get; set; }
     }
 }
